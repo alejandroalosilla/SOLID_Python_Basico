@@ -1,5 +1,5 @@
 """
-Exercicio: Faça um programa que leia a quantidade de pessoas que
+Exercicio 3: Faça um programa que leia a quantidade de pessoas que
 serão convidadas para uma festa.
 Após isso o programa irá perguntar o nome de todas as pessoas e
 colocar em uma lista de convidados.
