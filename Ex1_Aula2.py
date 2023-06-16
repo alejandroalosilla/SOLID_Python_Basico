@@ -1,7 +1,8 @@
 """
-(Aula 2)
+(Aula 2) - Variáveis, tipos, entrada, saída e operadores matemáticos.
+
 Exercicio 1: Faça um formulário que pergunte o nome, cpf, endereço,
-idade, altura e telefone e imprima isso em um relatório organizado
+idade, altura e telefone e imprima isso em um relatório organizado.
 """
 
 nome = input('Digite o nome: ').strip().capitalize()

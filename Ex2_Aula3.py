@@ -1,9 +1,10 @@
 """
-(Aula 3)
+(Aula 3) - Operadores  lógicos e estruturas de decisões (IF e ELSE).
+
 Exercício 2: Faça um programa que pergunte a idade, o peso e a altura
 de uma pessoa e decide se ela está apta a ser do Exército.
 Para entrar no exército é preciso ter mais de 18 anos pesar
-mais ou igual a 60 kilos e medir mais ou igual 1,70 metros
+mais ou igual a 60 kilos e medir mais ou igual 1,70 metros.
 """
 
 idade = None

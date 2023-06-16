@@ -1,4 +1,6 @@
 """
+(Aula 7) - Funções e Métodos.
+
 Exercicio 4: Escreva uma função que recebe um objeto de coleção
 e retorna o valor do maior número dentro dessa coleção
 faça outra função que retorna o menor número dessa coleção

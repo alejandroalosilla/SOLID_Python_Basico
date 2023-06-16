@@ -1,4 +1,6 @@
 """
+(Aula 5) - Estruturas de laço (WHILE e FOR).
+
 Exercicio 3: Faça um programa que leia a quantidade de pessoas que
 serão convidadas para uma festa.
 Após isso o programa irá perguntar o nome de todas as pessoas e
